@@ -21,4 +21,4 @@ Junio/30/2024:
 - Se replantea esta idea que aunque interesante, puede ser mas productivo hacer la implementación con Laravel, para aplicar lo que requiero aprender para manejar el entorno de desarrollo de Estrada Velasquez.
 - Me apoyo en Chat GPT para tener el paso a paso de lo que debo tener en cuenta para esta implementación
 - Utilizar estos recursos:
--- Curso de Git-Github: https://www.youtube.com/watch?v=3GymExBkKjE
+-   Curso de Git-Github: https://www.youtube.com/watch?v=3GymExBkKjE
